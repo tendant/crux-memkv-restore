@@ -1,6 +1,5 @@
 {:paths ["src"]
  :deps {org.clojure/clojure {:mvn/version "1.10.0"}
-        ring/ring-jetty-adapter {:mvn/version "1.8.0"}
         pro.juxt.crux/crux-http-server {:mvn/version "1.18.1"}
         pro.juxt.crux/crux-core {:mvn/version "1.18.1"}
         pro.juxt.crux/crux-jdbc {:mvn/version "1.18.1"}
